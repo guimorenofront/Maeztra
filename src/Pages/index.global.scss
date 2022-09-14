@@ -1,0 +1,78 @@
+.Questao {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    h1 {
+        color: white;
+
+    }
+    h3{
+        color: white;
+    }
+    .InputBox {
+        display: flex;
+        height: 85px;
+        width: 65%;
+        align-items: center;
+
+        input {
+            width: 90%;
+            height: 75px;
+            background-color: transparent;
+            border: 1px solid lightgray;
+            padding: 10px;
+            box-sizing: border-box;
+            border-radius:15px 0px 0px 15px;
+            color: white;
+            font-size: 18px;
+            border-right: none;
+            backdrop-filter: blur(2px);
+        }
+
+        button {
+            width: 10%;
+            height: 75px;
+            box-sizing: border-box;
+            border: 1px solid lightgray;
+            background-color: rgba(0, 0, 0, 0.137);
+            color: white;
+            font-size: 19px;
+            border-radius: 0px 15px 15px 0px;
+            backdrop-filter: blur(2px);
+            transition: 0.5s all;
+            &:hover{
+                background-color: rgba(0, 0, 0, 0.541);
+            }
+        }
+    }
+}
+
+.QuestaoS{
+    p{
+        color: white;
+    }
+}
+.QuestaoFour{
+    .InputBox{
+        margin: 0 auto;
+        justify-content: center;
+        gap: 15px;
+
+        p{
+            text-align: center;
+            color: white;
+            font-size: 18px;
+            width: auto;
+        }
+        button{
+            border-radius: 14px;
+        }
+    }
+    p{
+        width: 460px;
+        color: white;
+        font-size: 16px;
+    }
+}
