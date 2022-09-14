@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Maeztra/static/css/main.7989e97b.css",
-    "main.js": "/Maeztra/static/js/main.296b1e4b.js",
+    "main.js": "/Maeztra/static/js/main.c53f391e.js",
     "static/js/787.b6f1defa.chunk.js": "/Maeztra/static/js/787.b6f1defa.chunk.js",
     "static/media/Banner.png": "/Maeztra/static/media/Banner.a24111958088bb0144c5.png",
     "static/media/BannerInfoCard.png": "/Maeztra/static/media/BannerInfoCard.8970f1aa0f2083b81cbf.png",
@@ -29,11 +29,11 @@
     "static/media/Vector-1.svg": "/Maeztra/static/media/Vector-1.c662d0daf45b0c58668529f644ff8e86.svg",
     "static/media/Vector.svg": "/Maeztra/static/media/Vector.7d0c880bb24f90b543738c5092b3fadf.svg",
     "main.7989e97b.css.map": "/Maeztra/static/css/main.7989e97b.css.map",
-    "main.296b1e4b.js.map": "/Maeztra/static/js/main.296b1e4b.js.map",
+    "main.c53f391e.js.map": "/Maeztra/static/js/main.c53f391e.js.map",
     "787.b6f1defa.chunk.js.map": "/Maeztra/static/js/787.b6f1defa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7989e97b.css",
-    "static/js/main.296b1e4b.js"
+    "static/js/main.c53f391e.js"
   ]
 }
