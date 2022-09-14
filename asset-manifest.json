@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Maeztra/static/css/main.1bda2622.css",
+    "main.js": "/Maeztra/static/js/main.284775e7.js",
+    "static/js/787.b6f1defa.chunk.js": "/Maeztra/static/js/787.b6f1defa.chunk.js",
+    "static/media/Banner.png": "/Maeztra/static/media/Banner.a24111958088bb0144c5.png",
+    "static/media/BannerInfoCard.png": "/Maeztra/static/media/BannerInfoCard.8970f1aa0f2083b81cbf.png",
+    "static/media/image 4.png": "/Maeztra/static/media/image 4.50e86e47e98f7e90af6c.png",
+    "static/media/BannerMobile.png": "/Maeztra/static/media/BannerMobile.a86031c4255baf160ad1.png",
+    "static/media/Produto 01.png": "/Maeztra/static/media/Produto 01.fe335105b69995834b5e.png",
+    "static/media/Produto 03.png": "/Maeztra/static/media/Produto 03.6ee07929514058cb90ab.png",
+    "static/media/t.svg": "/Maeztra/static/media/t.9facf862ba964df7cfc13f1b39e4322c.svg",
+    "static/media/f.svg": "/Maeztra/static/media/f.f18ea7de57b57817ab391a2113c6b0dc.svg",
+    "static/media/fo.svg": "/Maeztra/static/media/fo.4c6247741dd5918f1775f2cf7933417e.svg",
+    "static/media/fi.svg": "/Maeztra/static/media/fi.961def0b8490b01eb2fbbbf696bad5f4.svg",
+    "static/media/s.svg": "/Maeztra/static/media/s.4670facd5d9b97d0210dedc0cd6ff1e9.svg",
+    "static/media/icon-dress.svg": "/Maeztra/static/media/icon-dress.f5473f7fc9c0b25826a24aeb6938cd41.svg",
+    "static/media/logo.svg": "/Maeztra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo-maeztra-novo.png.svg": "/Maeztra/static/media/logo-maeztra-novo.png.dc939f26b70f8ce891572620b48daece.svg",
+    "static/media/Qtd.svg": "/Maeztra/static/media/Qtd.32425f0b309ac3fd13c2e58b02d135b8.svg",
+    "static/media/User.svg": "/Maeztra/static/media/User.a51f61e6e18e1a03c7d2e0807d28ed48.svg",
+    "static/media/minicart.v2.svg": "/Maeztra/static/media/minicart.v2.d390dd319de7833cf461a9496a49cf22.svg",
+    "static/media/Fav.svg": "/Maeztra/static/media/Fav.338fa8a9373a77dc665ac345509809c9.svg",
+    "static/media/cart.svg": "/Maeztra/static/media/cart.2c9211200a124ccadd601ae908031b66.svg",
+    "static/media/Menu.svg": "/Maeztra/static/media/Menu.c770375bdede7e6a4c72ca0cefcd797f.svg",
+    "static/media/Submit.svg": "/Maeztra/static/media/Submit.74c670d2dc634325b3bc1068b6488899.svg",
+    "index.html": "/Maeztra/index.html",
+    "static/media/search-button.svg": "/Maeztra/static/media/search-button.a2052e47e0d130ef3b44a29c250e2f79.svg",
+    "static/media/newsletter-mail-icon.svg": "/Maeztra/static/media/newsletter-mail-icon.48b73cd7626cd5e2fc209fd6660bd6b5.svg",
+    "static/media/Vector-1.svg": "/Maeztra/static/media/Vector-1.c662d0daf45b0c58668529f644ff8e86.svg",
+    "static/media/Vector.svg": "/Maeztra/static/media/Vector.7d0c880bb24f90b543738c5092b3fadf.svg",
+    "main.1bda2622.css.map": "/Maeztra/static/css/main.1bda2622.css.map",
+    "main.284775e7.js.map": "/Maeztra/static/js/main.284775e7.js.map",
+    "787.b6f1defa.chunk.js.map": "/Maeztra/static/js/787.b6f1defa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bda2622.css",
+    "static/js/main.284775e7.js"
+  ]
+}
