@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Maeztra/static/css/main.1bda2622.css",
-    "main.js": "/Maeztra/static/js/main.284775e7.js",
+    "main.css": "/Maeztra/static/css/main.7989e97b.css",
+    "main.js": "/Maeztra/static/js/main.0b48ac26.js",
     "static/js/787.b6f1defa.chunk.js": "/Maeztra/static/js/787.b6f1defa.chunk.js",
     "static/media/Banner.png": "/Maeztra/static/media/Banner.a24111958088bb0144c5.png",
     "static/media/BannerInfoCard.png": "/Maeztra/static/media/BannerInfoCard.8970f1aa0f2083b81cbf.png",
@@ -15,7 +15,6 @@
     "static/media/fi.svg": "/Maeztra/static/media/fi.961def0b8490b01eb2fbbbf696bad5f4.svg",
     "static/media/s.svg": "/Maeztra/static/media/s.4670facd5d9b97d0210dedc0cd6ff1e9.svg",
     "static/media/icon-dress.svg": "/Maeztra/static/media/icon-dress.f5473f7fc9c0b25826a24aeb6938cd41.svg",
-    "static/media/logo.svg": "/Maeztra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/logo-maeztra-novo.png.svg": "/Maeztra/static/media/logo-maeztra-novo.png.dc939f26b70f8ce891572620b48daece.svg",
     "static/media/Qtd.svg": "/Maeztra/static/media/Qtd.32425f0b309ac3fd13c2e58b02d135b8.svg",
     "static/media/User.svg": "/Maeztra/static/media/User.a51f61e6e18e1a03c7d2e0807d28ed48.svg",
@@ -29,12 +28,12 @@
     "static/media/newsletter-mail-icon.svg": "/Maeztra/static/media/newsletter-mail-icon.48b73cd7626cd5e2fc209fd6660bd6b5.svg",
     "static/media/Vector-1.svg": "/Maeztra/static/media/Vector-1.c662d0daf45b0c58668529f644ff8e86.svg",
     "static/media/Vector.svg": "/Maeztra/static/media/Vector.7d0c880bb24f90b543738c5092b3fadf.svg",
-    "main.1bda2622.css.map": "/Maeztra/static/css/main.1bda2622.css.map",
-    "main.284775e7.js.map": "/Maeztra/static/js/main.284775e7.js.map",
+    "main.7989e97b.css.map": "/Maeztra/static/css/main.7989e97b.css.map",
+    "main.0b48ac26.js.map": "/Maeztra/static/js/main.0b48ac26.js.map",
     "787.b6f1defa.chunk.js.map": "/Maeztra/static/js/787.b6f1defa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bda2622.css",
-    "static/js/main.284775e7.js"
+    "static/css/main.7989e97b.css",
+    "static/js/main.0b48ac26.js"
   ]
 }
