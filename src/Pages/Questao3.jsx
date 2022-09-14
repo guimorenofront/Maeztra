@@ -5,10 +5,9 @@ import './index.global.scss'
 
 function QuestaoT() {
     const [value, setValue] = useState(0)
-    const [message, setMessage] = useState([])
     const handleChange = event => {
         setValue(event.target.value);
-        if (event.target.value == 0 || null) {
+        if (event.target.value === 0 || null) {
         }
         console.log('value is:', event.target.value);
     };

@@ -4,7 +4,6 @@ import './index.global.scss'
 // import { Container } from './styles';
 
 function QuestaoFive() {
-    const [value, setValue] = useState(0)
     const [message, setMessage] = useState("Calcule o valor clicando no Botão!")
     const data = [1, 2, 3, 4, 5, 6];
 

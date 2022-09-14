@@ -6,7 +6,6 @@ import './index.global.scss'
 function QuestaoF() {
     const [value, setValue] = useState(0)
     const [message, setMessage] = useState("Insira um valor")
-    const Values = 564141561563
 
 
     function Order(value) {
@@ -16,14 +15,14 @@ function QuestaoF() {
         let descending = 0
         let desorder = 0
         var intArr = Array.from(String(value), myFunc);
-        if (value != 0) {
+        if (value !== 0) {
             intArr.map((e, i) => {
-                if (i == 0) {
+                if (i === 0) {
                     console.log("teste")
                 } else {
-                    if (intArr[i - 1] == e || e == intArr[i - 1] + 1) {
+                    if (intArr[i - 1] === e || e === intArr[i - 1] + 1) {
                         ascending++
-                    } else if (intArr[i - 1] == e || e == intArr[i - 1] - 1) {
+                    } else if (intArr[i - 1] === e || e === intArr[i - 1] - 1) {
                         descending++
                     } else {
                         desorder++
@@ -46,7 +45,7 @@ function QuestaoF() {
     }
     const handleChange = event => {
         setValue(event.target.value);
-        if(event.target.value == 0 || null) {
+        if(event.target.value === 0 || null) {
             setMessage("Insira um valor")
         }
         console.log('value is:', event.target.value);

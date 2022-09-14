@@ -18,10 +18,9 @@ function QuestaoS() {
         value.split(',').map((e)=>{
             arr.push(parseInt(e))
         })
-        const findDuplicates = arr => arr.filter((item, index) => arr.indexOf(item) !== index)
+        const findDuplicates = arr => arr.filter((item, index) => arr.indexOf(item) != index)
         const duplicatas = findDuplicates(arr)
         setMessage(duplicatas)
-        
     }
     return (
         <div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import Background from '../components/Background/background';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 // import { Container } from './styles';
 
 function Home() {
